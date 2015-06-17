@@ -309,3 +309,7 @@ http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/55.ts?freeiptvlinks.com
 http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/56.ts?freeiptvlinks.com
 #EXTINF:-1,Arena Sports 4
 http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/57.ts?freeiptvlinks.com
+#EXTINF:-1,London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:-1,Comedy central[COLOR red]link_down[/COLOR]
+http://188.138.9.228:8022
