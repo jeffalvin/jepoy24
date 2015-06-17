@@ -1,44 +1,651 @@
-﻿#EXTM3U
-#EXTINF:-1, Action Plus L1
+#EXTM3U
+#EXTINF:-1,MTV Dance
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/167.ts
+#EXTINF:-1,VH1 Music
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/149.ts
+#EXTINF:-1,Mtv Hits
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/143.ts
+#EXTINF:-1,Best music
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/89.ts
+#EXTINF:-1,Eaka rock music
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/227.ts
+#EXTINF:-1,Eska Party Music
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/206.ts
+#EXTINF:-1,Sky UK Premiere
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/166.ts
+#EXTINF:-1,UK - SKY THRILLER
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/158.ts
+#EXTINF:-1,UK: Sky Uk Select
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/712.ts
+#EXTINF:-1,UK: Sky Atlantic
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/162.ts
+#EXTINF:-1,Sky Family HD UK
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/160.ts
+#EXTINF:-1,UK: Sky Sci-Fi
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/703.ts
+#EXTINF:-1,UK: CBS Drama
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/698.ts
+#EXTINF:-1,UK: Sky Drama
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/145.ts
+#EXTINF:-1,Sky Movies Action  (UK)
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/159.ts
+#EXTINF:-1,Sky UK Comedy
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/165.ts
+#EXTINF:-1,Sports Tonight UK
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/744.ts
+#EXTINF:-1,SkyUK: BT Sport 1
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/130.ts
+#EXTINF:-1,SKY UK: BT SPORT 2
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/131.ts
+#EXTINF:-1,UK: Channel 4
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/68.ts
+#EXTINF:-1,BBC One UK
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/211.ts
+#EXTINF:-1,RTE 1 UK
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/66.ts
+#EXTINF:-1,UK: RTE 2 HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/147.ts
+#EXTINF:-1,GB: Film 4
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/198.ts
+#EXTINF:-1,GB: Living
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/144.ts
+#EXTINF:-1,UK: ITV 1
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/694.ts
+#EXTINF:-1,ITV 3
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/696.ts
+#EXTINF:-1,ITV 2
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/695.ts
+#EXTINF:-1,ITV 4
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/697.ts
+#EXTINF:-1,Nat Geo Wild
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/706.ts
+#EXTINF:-1,UK: Travel Channel
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/700.ts
+#EXTINF:-1,GB: Dmax
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/67.ts
+#EXTINF:-1,Sky Uk Modern Greats HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/234.ts
+#EXTINF:-1,Setanta Sports Ireland
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/705.ts
+#EXTINF:-1,UK: Premier Sport
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/225.ts
+#EXTINF:-1,SKY Sport 1 HD (uk)
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/57.ts
+#EXTINF:-1,SKY Sport 2 HD (uk)
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/58.ts
+#EXTINF:-1,SKY Sport 3 HD (uk)
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/59.ts
+#EXTINF:-1,SKY Sport 4 HD (uk)
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/60.ts
+#EXTINF:-1,SKY Sport 5 HD (uk)
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/61.ts
+#EXTINF:-1,Rai 1 HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/118.ts
+#EXTINF:-1,Rai 2 HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/117.ts
+#EXTINF:-1,Rai 3 HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/120.ts
+#EXTINF:-1,Rai 5
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/197.ts
+#EXTINF:-1,Sky Tg 24
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/204.ts
+#EXTINF:-1,Italia 1
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/122.ts
+#EXTINF:-1,Italia 2
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/141.ts
+#EXTINF:-1,Rete 4
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/123.ts
+#EXTINF:-1,Canale 5
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/121.ts
+#EXTINF:-1,LA7
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/701.ts
+#EXTINF:-1,Discovery World
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/105.ts
+#EXTINF:-1,Mediaset EXTRA
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/142.ts
+#EXTINF:-1,Premium Cinema HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/111.ts
+#EXTINF:-1,Premium Joy
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/188.ts
+#EXTINF:-1,Premium Maya
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/110.ts
+#EXTINF:-1,Premium Energy
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/109.ts
+#EXTINF:-1,Premium Crime
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/104.ts
+#EXTINF:-1,Premium Emotion
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/44.ts
+#EXTINF:-1,Premium Action
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/112.ts
+#EXTINF:-1,PREMIUM COMEDY
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/172.ts
+#EXTINF:-1,Premium Disney Channel
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/189.ts
+#EXTINF:-1,Premium Fox Sport
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/213.ts
+#EXTINF:-1,Premium Calcio
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/113.ts
+#EXTINF:-1,Premium Calcio 1 HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/205.ts
+#EXTINF:-1,Premium Calcio 2 HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/210.ts
+#EXTINF:-1,Sky Cinema 1 HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/114.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/116.ts
+#EXTINF:-1,Sky Cinema Hits HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/132.ts
+#EXTINF:-1,Sky Cinema Max HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/128.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/163.ts
+#EXTINF:-1,Cinema Passion HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/164.ts
+#EXTINF:-1,Sky Cinema Classic HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/124.ts
+#EXTINF:-1,Sky Cinema Cult HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/146.ts
+#EXTINF:-1,SKY Discovery World
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/127.ts
+#EXTINF:-1,SKY ANIMAL PLANET
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/208.ts
+#EXTINF:-1,NationalGeo HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/223.ts
+#EXTINF:-1,Sky 3D Italian
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/704.ts
+#EXTINF:-1,Caccia & Pesca
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/81.ts
+#EXTINF:-1,Euro Sport
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/155.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/157.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/125.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/126.ts
+#EXTINF:-1,Sky Supercalcio HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/180.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/195.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/219.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/220.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/221.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/222.ts
+#EXTINF:-1,Sky Moto GP
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/129.ts
+#EXTINF:-1,Sky Fox HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/177.ts
+#EXTINF:-1,PrimaFila 1 HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/72.ts
+#EXTINF:-1,PrimaFila 2 HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/199.ts
+#EXTINF:-1,PrimaFila 3 HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/190.ts
+#EXTINF:-1,PrimaFila 4 HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/88.ts
+#EXTINF:-1,Primafila 5 HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/73.ts
+#EXTINF:-1,Primafila 6 HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/215.ts
+#EXTINF:-1,Primafila 7 HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/216.ts
+#EXTINF:-1,Primafila 8 HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/217.ts
+#EXTINF:-1,Primafila 9 HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/214.ts
+#EXTINF:-1,Primafila 10 HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/207.ts
+#EXTINF:-1,RTL Deutschland
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/170.ts
+#EXTINF:-1,RTL II Deutschland
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/136.ts
+#EXTINF:-1,Super RTL
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/203.ts
+#EXTINF:-1,ZDF
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/95.ts
+#EXTINF:-1,ProSieben
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/202.ts
+#EXTINF:-1,DAS ERTES
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/96.ts
+#EXTINF:-1,Cartoon Network
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/134.ts
+#EXTINF:-1,DE: Sky  Atlantic
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/138.ts
+#EXTINF:-1,DE: Sky Germany AXN HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/139.ts
+#EXTINF:-1,Sky Germany TNT Serie HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/140.ts
+#EXTINF:-1,Sky DE Cinema HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/133.ts
+#EXTINF:-1,SKY DE EMOTION
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/218.ts
+#EXTINF:-1,Sky De Krimi
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/148.ts
+#EXTINF:-1,Sky Hits DE
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/782.ts
+#EXTINF:-1,SKY ACTION DE
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/135.ts
+#EXTINF:-1,SKY Bundesliga
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/71.ts
+#EXTINF:-1,SKY Sport 1 HD (de)
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/75.ts
+#EXTINF:-1,SKY Sport 2 HD (de)
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/76.ts
+#EXTINF:-1,National Geographic Channel Deutschland
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/235.ts
+#EXTINF:-1,Sport Time TV 1
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/750.ts
+#EXTINF:-1,SPORT TIME TV 2
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/749.ts
+#EXTINF:-1,Sport Time TV 3
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/748.ts
+#EXTINF:-1,Sport Time TV 4
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/747.ts
+#EXTINF:-1,Sport Time TV 5
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/746.ts
+#EXTINF:-1,Sport Time TV 6
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/745.ts
+#EXTINF:-1,France O HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/69.ts
+#EXTINF:-1,France 2 HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/70.ts
+#EXTINF:-1,ARTE
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/161.ts
+#EXTINF:-1,Discoveri Science Fr
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/711.ts
+#EXTINF:-1,Ushuaia-Tv-HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/702.ts
+#EXTINF:-1,Animax Fr
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/723.ts
+#EXTINF:-1,FR:-Planete
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/731.ts
+#EXTINF:-1,Chasse et Peche FR:
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/732.ts
+#EXTINF:-1,Real Madrid TV
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/730.ts
+#EXTINF:-1,BOOMERANG
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/733.ts
+#EXTINF:-1,Canal Sport FR
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/729.ts
+#EXTINF:-1,Bein Sport  1 HD FR
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/194.ts
+#EXTINF:-1,Bein Sport  2 HD FR
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/193.ts
+#EXTINF:-1,BEIN SPORT 3 HD AR
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/724.ts
+#EXTINF:-1,BeinSport 4
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/773.ts
+#EXTINF:-1,beINSport 5 HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/742.ts
+#EXTINF:-1,beINSport 6 HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/741.ts
+#EXTINF:-1,beINSport 7 HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/740.ts
+#EXTINF:-1,SWED: VIASAT FILM
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/752.ts
+#EXTINF:-1,SWED: VIASAT ACTION
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/753.ts
+#EXTINF:-1,SWED: TV8 SW
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/754.ts
+#EXTINF:-1,SWED: TV6
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/755.ts
+#EXTINF:-1,SWED: TV4 GULD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/756.ts
+#EXTINF:-1,SWED: TV4 FAKTA
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/757.ts
+#EXTINF:-1,SWED: C MORE SPORT
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/758.ts
+#EXTINF:-1,SWED: C MORE SERIES
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/759.ts
+#EXTINF:-1,SWED: C MORE LIVE 4
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/760.ts
+#EXTINF:-1,SWED: C MORE LIVE 3
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/761.ts
+#EXTINF:-1,SWED: C MORE LIVE 2
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/762.ts
+#EXTINF:-1,SWED: C MORE LIVE
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/763.ts
+#EXTINF:-1,SWED: C MORE HITS
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/764.ts
 
-http://185.4.83.195:1935/tv10/smil:actionplus_hd_mobile.smil/playlist.m3u8
-
-#EXTINF:-1, Action Plus L2
-
-http://185.4.83.202:1935/tv10/smil:actionplus_hd_mobile.smil/playlist.m3u8
-
-#EXTINF:-1, Action Plus L3
-
-http://185.4.83.203:1935/tv10/smil:actionplus_hd_mobile.smil/playlist.m3u8
-
-#EXTINF:-1, Action Plus L4
-
-http://46.40.73.66:1935/tv10/smil:actionplus_hd_mobile.smil/playlist.m3u8
-
-#EXTINF:-1, Comedy Plus L1
-
-http://185.4.83.195:1935/tv10/smil:comedyplus_hd_mobile.smil/playlist.m3u8
-
-#EXTINF:-1,Comedy Plus L2
-
-http://185.4.83.202:1935/tv10/smil:comedyplus_hd_mobile.smil/playlist.m3u8
-
-#EXTINF:-1, Comedy Plus L3
-
-http://185.4.83.203:1935/tv10/smil:comedyplus_hd_mobile.smil/playlist.m3u8
-
-#EXTINF:-1, Comedy Plus L4
-
-http://46.40.73.66:1935/tv10/smil:comedyplus_hd_mobile.smil/playlist.m3u8
-
-#‎EXTINF‬:-1,HBO HD
-
-http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
-
-#EXTINF:-1,STAR MOVIE HD
-
-http://113.160.49.34/lives/origin03/moviehd.isml/moviehd-2096k.m3u8
-
-#EXTINF:-1,AXN HD
-
-http://113.160.49.34/lives/origin03/axnhd.isml/axnhd-2096k.m3u8
+#EXTM3U
+#EXTINF:-1,Top Channel
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/106.ts
+#EXTINF:-1,Top Channel B
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/2.ts
+#EXTINF:-1,Top Channel HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/25.ts
+#EXTINF:-1,Klan
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/107.ts
+#EXTINF:-1,Klan B
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/4.ts
+#EXTINF:-1,Klan HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/26.ts
+#EXTINF:-1,Top News
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/3.ts
+#EXTINF:-1,Vizion Plus
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/10.ts
+#EXTINF:-1,Agon Channel
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/9.ts
+#EXTINF:-1,AGON CHANNEL IT
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/726.ts
+#EXTINF:-1,News 24
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/5.ts
+#EXTINF:-1,Ora News HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/728.ts
+#EXTINF:-1,A1 News
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/7.ts
+#EXTINF:-1,Abc News
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/6.ts
+#EXTINF:-1,Tvsh
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/108.ts
+#EXTINF:-1,Click Tv
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/769.ts
+#EXTINF:-1,Rrokum HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/717.ts
+#EXTINF:-1,First Tv
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/715.ts
+#EXTINF:-1,AS
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/1.ts
+#EXTINF:-1,Tv Elbasan
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/767.ts
+#EXTINF:-1,Jug Tv
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/238.ts
+#EXTINF:-1,Star Plus Shkoder
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/181.ts
+#EXTINF:-1,EuroNews
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/226.ts
+#EXTINF:-1,Rtk
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/15.ts
+#EXTINF:-1,Ktv
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/48.ts
+#EXTINF:-1,Tv Globi
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/766.ts
+#EXTINF:-1,TV Koha Tetove
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/800.ts
+#EXTINF:-1,Tvprizereni
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/765.ts
+#EXTINF:-1,21 HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/47.ts
+#EXTINF:-1,21 Plus
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/725.ts
+#EXTINF:-1,21 HD Popullore
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/49.ts
+#EXTINF:-1,Klan Kosova
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/11.ts
+#EXTINF:-1,Era Tv
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/175.ts
+#EXTINF:-1,3 Plus
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/173.ts
+#EXTINF:-1,Alsat M
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/39.ts
+#EXTINF:-1,MKTV2
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/94.ts
+#EXTINF:-1,Bang Bang
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/12.ts
+#EXTINF:-1,Cufo
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/13.ts
+#EXTINF:-1,Junior
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/14.ts
+#EXTINF:-1,Explorer Shkence
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/16.ts
+#EXTINF:-1,Explorer History
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/17.ts
+#EXTINF:-1,Explorer Natyre
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/18.ts
+#EXTINF:-1,Dasma Tv
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/168.ts
+#EXTINF:-1,Peace
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/783.ts
+#EXTINF:-1,Folk Plus
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/212.ts
+#EXTINF:-1,Supersonic Tv
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/24.ts
+#EXTINF:-1,BBF
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/28.ts
+#EXTINF:-1,Super Folk
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/38.ts
+#EXTINF:-1,Alb Music
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/714.ts
+#EXTINF:-1,Tv Opoja
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/768.ts
+#EXTINF:-1,Elrodi
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/43.ts
+#EXTINF:-1,Tirana Tv
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/37.ts
+#EXTINF:-1,Folklorit
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/156.ts
+#EXTINF:-1,Mad Albania
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/8.ts
+#EXTINF:-1,My Music
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/27.ts
+#EXTINF:-1,Fox Crime
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/32.ts
+#EXTINF:-1,T+ HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/20.ts
+#EXTINF:-1,Stinet
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/19.ts
+#EXTINF:-1,ALB. UK
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/174.ts
+#EXTINF:-1,Plus HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/770.ts
+#EXTINF:-1,Film Nje HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/23.ts
+#EXTINF:-1,Film Dy HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/31.ts
+#EXTINF:-1,Film Autor
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/192.ts
+#EXTINF:-1,Film Hits
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/42.ts
+#EXTINF:-1,Film Hits 1
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/74.ts
+#EXTINF:-1,Film Triller
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/45.ts
+#EXTINF:-1,Film Drame
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/46.ts
+#EXTINF:-1,Film Aksion
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/21.ts
+#EXTINF:-1,Film Komedi
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/22.ts
+#EXTINF:-1,Channel One
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/40.ts
+#EXTINF:-1,Besa
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/41.ts
+#EXTINF:-1,Supersport 1
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/29.ts
+#EXTINF:-1,Supersport 2
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/30.ts
+#EXTINF:-1,Supersport 3
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/34.ts
+#EXTINF:-1,Supersport 4
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/33.ts
+#EXTINF:-1,SuperSport 1 HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/153.ts
+#EXTINF:-1,SuperSport 2 HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/154.ts
+#EXTINF:-1,Supersport 3 HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/720.ts
+#EXTINF:-1,SuperSport4 HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/722.ts
+#EXTINF:-1,Supersport Kosova 1
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/35.ts
+#EXTINF:-1,Supersport Kosova 2
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/36.ts
+#EXTINF:-1,Digi Gold
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/191.ts
+#EXTINF:-1,Joly HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/169.ts
+#EXTINF:-1,Planet Tv
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/54.ts
+#EXTINF:-1,Tiptv
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/65.ts
+#EXTINF:-1,Tring Tring
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/53.ts
+#EXTINF:-1,Tring World
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/772.ts
+#EXTINF:-1,Tring History
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/56.ts
+#EXTINF:-1,Tring Planet
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/52.ts
+#EXTINF:-1,Tring Living
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/176.ts
+#EXTINF:-1,Tring Fantasy
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/721.ts
+#EXTINF:-1,Tring Super
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/716.ts
+#EXTINF:-1,Tring Max
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/50.ts
+#EXTINF:-1,Tring Shqip
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/55.ts
+#EXTINF:-1,Tring Comedy
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/51.ts
+#EXTINF:-1,Tring Life
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/713.ts
+#EXTINF:-1,TRING SPORT 1
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/232.ts
+#EXTINF:-1,Sitel
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/91.ts
+#EXTINF:-1,Telma
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/90.ts
+#EXTINF:-1,KANAL 5
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/92.ts
+#EXTINF:-1,MRTV 1
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/93.ts
+#EXTINF:-1,PINK 1
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/85.ts
+#EXTINF:-1,Pink BH
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/115.ts
+#EXTINF:-1,Pink Music
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/201.ts
+#EXTINF:-1,Dm Sat
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/699.ts
+#EXTINF:-1,Doma
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/779.ts
+#EXTINF:-1,HAYAT FOLK
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/229.ts
+#EXTINF:-1,PINK FOLK 1
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/87.ts
+#EXTINF:-1,PINK ACTION
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/86.ts
+#EXTINF:-1,Nova TV
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/100.ts
+#EXTINF:-1,PRVA
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/230.ts
+#EXTINF:-1,OBN
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/99.ts
+#EXTINF:-1,RTRS
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/150.ts
+#EXTINF:-1,BN
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/178.ts
+#EXTINF:-1,B92
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/151.ts
+#EXTINF:-1,HRT
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/97.ts
+#EXTINF:-1,HRT 2
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/98.ts
+#EXTINF:-1,Sport Klub 1
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/101.ts
+#EXTINF:-1,Sport Klub 2
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/102.ts
+#EXTINF:-1,Sport Klub 3
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/103.ts
+#EXTINF:-1,Arena Sport 1
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/62.ts
+#EXTINF:-1,Arena Sport 2
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/63.ts
+#EXTINF:-1,Arena Sport 3
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/171.ts
+#EXTINF:-1,Arena Sport 4
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/64.ts
+#EXTINF:-1,Ant 1 (GR)
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/152.ts
+#EXTINF:-1,Mega
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/137.ts
+#EXTINF:-1,Star (GR)
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/83.ts
+#EXTINF:-1,Alpha (GR)
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/84.ts
+#EXTINF:-1,Anea
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/119.ts
+#EXTINF:-1,Nea gr
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/82.ts
+#EXTINF:-1,Nerit
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/778.ts
+#EXTINF:-1,Et3
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/777.ts
+#EXTINF:-1,Mad (GR)
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/185.ts
+#EXTINF:-1,Animal Planet Gr
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/179.ts
+#EXTINF:-1,Lig Tv 1
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/209.ts
+#EXTINF:-1,Lig tv 2
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/79.ts
+#EXTINF:-1,Lig tv 3
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/182.ts
+#EXTINF:-1,TRT HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/186.ts
+#EXTINF:-1,Salon 1 HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/727.ts
+#EXTINF:-1,Kanal D HD Turk
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/187.ts
+#EXTINF:-1,TRT Muzik
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/80.ts
+#EXTINF:-1,Star Tv Turk
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/77.ts
+#EXTINF:-1,Show Tv Turk
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/78.ts
+#EXTINF:-1,POWER TV
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/709.ts
+#EXTINF:-1,POWER TURK
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/710.ts
+#EXTINF:-1,Nr1 Turk
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/708.ts
+#EXTINF:-1,Salon 2 HD
+http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/231.ts
+#EXTINF:-1,American Sniper
+http://iptv.hopto.org:9705/movie/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/228.mkv
+#EXTINF:-1,Hot Tub Time Machine 2 2015
+http://iptv.hopto.org:9705/movie/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/237.mkv
+#EXTINF:-1,Focus 2015
+http://iptv.hopto.org:9705/movie/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/236.mkv
+#EXTINF:-1,The Boy Next Door  2015
+http://iptv.hopto.org:9705/movie/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/774.mkv
+#EXTINF:-1,Sword of Vengeance 2015
+http://iptv.hopto.org:9705/movie/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/771.mkv
+#EXTINF:-1,Mortdecai 2015
+http://iptv.hopto.org:9705/movie/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/776.mkv
+#EXTINF:-1,Man with the Iron Fists 2 2015
+http://iptv.hopto.org:9705/movie/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/775.mkv
+#EXTINF:-1,Jupiter
+http://iptv.hopto.org:9705/movie/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/784.mkv
+#EXTINF:-1,Dead Rising: Watchtower  2015
+http://iptv.hopto.org:9705/movie/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/785.mkv
+#EXTINF:-1,Careful What You Wish For 2015
+http://iptv.hopto.org:9705/movie/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/786.mkv
+#EXTINF:-1,Wolf Totem
+http://iptv.hopto.org:9705/movie/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/792.mkv
+#EXTINF:-1,The Girl Is in Trouble
+http://iptv.hopto.org:9705/movie/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/790.mkv
+#EXTINF:-1,Strange Magic
+http://iptv.hopto.org:9705/movie/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/793.mkv
+#EXTINF:-1,Spare Parts 2015
+http://iptv.hopto.org:9705/movie/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/794.mkv
+#EXTINF:-1,Run All Night
+http://iptv.hopto.org:9705/movie/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/791.mkv
+#EXTINF:-1,Messi
+http://iptv.hopto.org:9705/movie/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/788.mkv
+#EXTINF:-1,Any Day 2015
+http://iptv.hopto.org:9705/movie/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/789.mkv
+#EXTINF:-1,Wolf Totem | 2015
+http://iptv.hopto.org:9705/movie/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/799.mkv
+#EXTINF:-1,Survivor | 2015
+http://iptv.hopto.org:9705/movie/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/798.mkv
+#EXTINF:-1,Enemies Closer (2013)
+http://iptv.hopto.org:9705/movie/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/796.mkv
+#EXTINF:-1,Dead Rising: Watchtower | 2015
+http://iptv.hopto.org:9705/movie/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/797.mkv
