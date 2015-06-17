@@ -218,4 +218,5 @@ http://113.160.49.34/lives/origin03/cinemaxsd.isml/cinemaxsd-1096k.m3u8
 #EXTINF:0, STAR SPORTS
 http://113.160.49.34/lives/origin03/starsportsd.isml/starsportsd-1096k.m3u8
 
-
+#EXTINF:-0,TLC USA
+http://80.80.160.168/live/2/500000/playlist.m3u8
