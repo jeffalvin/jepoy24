@@ -221,95 +221,98 @@ http://113.160.49.34/lives/origin03/starsportsd.isml/starsportsd-1096k.m3u8
 #EXTINF:-0,TLC USA
 http://80.80.160.168/live/2/500000/playlist.m3u8
 
-#EXTINF:-1,Sky UK Premiere
-http://iptv.hopto.org:9705/live/Fcb:Alb.TV.Systems/Skp:dreamserver.dreamserver/166.ts
-#EXTINF:-1,Sky Movie (Action&Adventure)
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/110.ts?freeiptvlinks.com
-#EXTINF:-1,Sky Movie (Comedy)
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/108.ts?freeiptvlinks.com
-#EXTINF:-1,Sky Movie (Crime&Thriller)
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/113.ts?freeiptvlinks.com
-#EXTINF:-1,Sky Movie (Drama)
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/107.ts?freeiptvlinks.com
-#EXTINF:-1,Sky Movie (Family)
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/65.ts?freeiptvlinks.com
-#EXTINF:-1,Sky Movie (Modern)
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/109.ts?freeiptvlinks.com
-#EXTINF:-1,Sky Movie (Premiere)
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/111.ts?freeiptvlinks.com
-#EXTINF:-1,Sky Movie (SciFi&Horror)
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/112.ts?freeiptvlinks.com
-#EXTINF:-1,Sky Movie (Select)
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/64.ts?freeiptvlinks.com
-#EXTINF:-1,Sky sports News
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/7.ts?freeiptvlinks.com
-#EXTINF:-1,Sky sports 1
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/1.ts?freeiptvlinks.com
-#EXTINF:-1,Sky sports 1 (Backup)
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/140.ts?freeiptvlinks.com
-#EXTINF:-1,Sky sports 2
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/2.ts?freeiptvlinks.com
-#EXTINF:-1,Sky Sports 2 (Backup)
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/141.ts?freeiptvlinks.com
-#EXTINF:-1,Sky sports 3
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/3.ts?freeiptvlinks.com
-#EXTINF:-1,Sky sports 3 (Backup)
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/142.ts?freeiptvlinks.com
-#EXTINF:-1,Sky sports 4
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/4.ts?freeiptvlinks.com
-#EXTINF:-1,Sky sports 4 (Backup)
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/143.ts?freeiptvlinks.com
-#EXTINF:-1,sky sports 5
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/5.ts?freeiptvlinks.com
-#EXTINF:-1,Sky sports 5 (Backup)
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/144.ts?freeiptvlinks.com
-#EXTINF:-1,Sky sports F1
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/6.ts?freeiptvlinks.com
-#EXTINF:-1,Sky Sports F1 (Backup)
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/145.ts?freeiptvlinks.com
-#EXTINF:-1,Bt Sports 1
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/10.ts?freeiptvlinks.com
-#EXTINF:-1,Bt Sports 1 (Backup)
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/147.ts?freeiptvlinks.com
-#EXTINF:-1,Bt Sports 2
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/11.ts?freeiptvlinks.com
-#EXTINF:-1,Bt Sports 2 (Backup)
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/148.ts?freeiptvlinks.com
-#EXTINF:-1,ESPN UK
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/14.ts?freeiptvlinks.com
-#EXTINF:-1,Eurosport 1
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/12.ts?freeiptvlinks.com
-#EXTINF:-1,Eurosport 2
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/13.ts?freeiptvlinks.com
-#EXTINF:-1,Premier Sports
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/9.ts?freeiptvlinks.com
-#EXTINF:-1,Premier Sports (Backup)
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/149.ts?freeiptvlinks.com
-#EXTINF:-1,Setanta Ireland
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/8.ts?freeiptvlinks.com
-#EXTINF:-1,Box Nation
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/15.ts?freeiptvlinks.com
-#EXTINF:-1,At The Races
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/52.ts?freeiptvlinks.com
-#EXTINF:-1,TSN 1
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/34.ts?freeiptvlinks.com
-#EXTINF:-1,TSN 2
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/35.ts?freeiptvlinks.com
-#EXTINF:-1,TSN 3
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/135.ts?freeiptvlinks.com
-#EXTINF:-1,TSN 4
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/136.ts?freeiptvlinks.com
-#EXTINF:-1,TSN 5
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/137.ts?freeiptvlinks.com
-#EXTINF:-1,Arena Sports 1
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/54.ts?freeiptvlinks.com
-#EXTINF:-1,Arena Sports 2
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/55.ts?freeiptvlinks.com
-#EXTINF:-1,Arena Sports 3
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/56.ts?freeiptvlinks.com
-#EXTINF:-1,Arena Sports 4
-http://iptv.wssiptv.com/live/wssiptvdotcom/KYUJ3di3ItH/57.ts?freeiptvlinks.com
-#EXTINF:-1,London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
-#EXTINF:-1,Comedy central[COLOR red]link_down[/COLOR]
-http://188.138.9.228:8022
+#EXTM3U
+#EXTINF: 0, Nat Geo Wild HD
+http://46.61.226.18/hls/CH_C03_NATGEOWILDHD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, National Geographic HD
+http://46.61.226.18/hls/CH_C04_NGCHD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, Nickelodeon HD
+http://46.61.226.18/hls/CH_C01_NICKELODEONHD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, Outdoor Channel HD
+http://46.61.226.18/hls/CH_C01_OUTDOORCHANNELHD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, Paramount Channel HD
+http://46.61.226.18/hls/CH_C02_PARAMOUNTCHANNELHD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, Paramount Comedy HD
+http://46.61.226.18/hls/CH_C03_PARAMOUNTCOMEDYHD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, RTTV HD
+http://46.61.226.18/hls/CH_C04_RTTVHD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, SET HD
+http://46.61.226.18/hls/CH_C02_SETHD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, TLC HD
+http://46.61.226.18/hls/CH_C04_TLCHD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, Travel and Adventure HD
+http://46.61.226.18/hls/CH_C02_TRAVELCHANNELHD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, CHL HD
+http://46.61.226.18/hls/CH_C02_KHLHD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, Our Football HD
+http://46.61.226.18/hls/CH_C06_NASHFOOTBALLHD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, 1 Football HD
+http://46.61.226.18/hls/CH_FUTBALL1HD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, Football 2 HD
+http://46.61.226.18/hls/CH_FUTBALL2HD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, Football 3 HD
+http://46.61.226.18/hls/CH_FUTBALL3HD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, Viasat Golf HD
+http://46.61.226.18/hls/CH_C06_VIASATGOLFHD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, Viasat Nature / History HD
+http://46.61.226.18/hls/CH_C03_VIASATNATUREHISTORYHD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, Viasat Sport HD
+http://46.61.226.18/hls/CH_C06_VIASATSPORTHD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, Food Network HD
+http://46.61.226.18/hls/CH_C05_FOODHD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, MTV Live HD
+http://46.61.226.18/hls/CH_C03_MTVLIVEHD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0 Trophy HD
+http://str.trofey.net:1935/live/2_max.smil/playlist.m3u8?session=5488c6087e1ea6.57082302&id=2
+#EXTINF: 0 HD Movie Menu
+http://93.95.99.231:1935/live/km/playlist.m3u8
+#EXTINF: 0, Nasa HD (ENG)
+http://media.infozen.cshls.lldns.net/infozen/media/media/media_1000.m3u8
+#EXTINF: 0, Nasa HD (ENG)
+http://public.infozen.cshls.lldns.net/infozen/public/public/public_1000.m3u8
+#EXTINF: 0, IQ HD
+http://hls.svc.moyo.tv/hls/CH_IQHD/bw3378000/variant.m3u8?version=2
+#EXTINF: 0, Channel HD
+http://hls.svc.moyo.tv/hls/CH_1TVHD/bw3378000/variant.m3u8?version=2
+#EXTINF: 0 horrible HD
+http://46.61.226.18/hls/CH_C01_STRASHNOEHD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, Channel HD
+http://46.61.226.18/hls/CH_C06_1TVHD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, Russia HD
+http://hls.svc.moyo.tv/hls/CH_RUSSIAHD/bw3378000/variant.m3u8?version=2
+#EXTINF: 0, Russia HD
+http://46.61.226.18/hls/CH_C05_RUSSIA1HD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, TV Comedy HD 1000
+http://46.61.226.18/hls/CH_C03_TV1000COMEDYHD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, TV Megahit HD 1000
+http://46.61.226.18/hls/CH_C03_TV1000MEGAHITHD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, TV 1000 Premium HD
+http://46.61.226.18/hls/CH_C05_TV1000PREMIUMHD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, AMEDIA 1 HD
+http://46.61.226.18/hls/CH_C01_HDAMEDIA/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, Amedia Premium HD
+http://46.61.226.18/hls/CH_C05_HDAMEDIAPREMIUM/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, Animal Planet HD
+http://46.61.226.18/hls/CH_C03_ANIMALPLANETHD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, Discovery Channel HD
+http://46.61.226.18/hls/CH_C05_DISCOVERYCHANNELHD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, Discovery Science HD
+http://46.61.226.18/hls/CH_C05_DISCOVERYSCIENCEHD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, Eurosport HD
+http://46.61.226.18/hls/CH_C02_EUROSPORTHD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, Sport 1 HD
+http://hls.svc.moyo.tv/hls/CH_SPORT1HD/bw3378000/variant.m3u8?version=2
+#EXTINF: 0, Sport 1 HD
+http://46.61.226.18/hls/CH_C04_SPORT1HD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, FOX HD
+http://46.61.226.18/hls/CH_C02_FOXHD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, Fashion One HD
+http://46.61.226.18/hls/CH_C04_FASHIONONEHD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, Fox Life HD
+http://46.61.226.18/hls/CH_C04_FOXLIFEHD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, History HD
+http://46.61.226.18/hls/CH_C05_HDHISTORY/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, Mezzo Live HD
+http://46.61.226.18/hls/CH_C05_MEZZOLIVEHD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0, My Zen TV HD
+http://46.61.226.18/hls/CH_C05_MYZENTVHD/bw3000000/variant.m3u8?version=2
